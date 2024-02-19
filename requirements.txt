@@ -1,0 +1,4 @@
+tqdm
+docx2txt
+python-docx
+regex

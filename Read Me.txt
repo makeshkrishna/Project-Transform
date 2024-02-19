@@ -1,0 +1,11 @@
+* Please change the Path to the filename, preferred output file path,UK and US Word list
+
+* Install the required packages using 
+
+	pip install -r requirements.txt
+
+* To run the code in CLI, use the following 
+
+	python  \path_to_file\NLP_Project_Final.py
+
+* More info is given in the Translator - Read_Me file
